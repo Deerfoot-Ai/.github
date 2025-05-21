@@ -62,7 +62,7 @@ To revolutionize running through intelligent coaching that optimizes performance
 ## 📬 **Connect With Us**
 
 - **Website**: [deerfoot.ai](https://deerfoot.ai)
-- **Business Inquiries**: hello@deerfoot.ai
+- **Business Inquiries**: deerfootajayk@gmail.com
 - **Careers**: We're growing! Reach out if you're passionate about AI and running
 
 ---
