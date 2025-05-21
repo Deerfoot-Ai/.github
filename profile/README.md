@@ -20,7 +20,7 @@ To revolutionize running through intelligent coaching that optimizes performance
 - Adaptive training plans** that evolve with your progress  
 - Couch to Marathon. 
 
-📱 Premium Mobile Experience**
+📱 Premium Mobile Experience
 - Elegant design** with sophisticated black/silver/white aesthetics
 - Seamless integrations with Samsung Health, Garmin, and more
 - Voice-interactive coaching during every run
@@ -32,14 +32,14 @@ To revolutionize running through intelligent coaching that optimizes performance
 
 ---
 
-💡 Innovation Areas**
+💡 Innovation Areas
 
-🧠 AI & Machine Learning**  
-🏃‍♀️ Sports Science & Biomechanics**  
-📱 Mobile App Development**  
-🎵 Voice Technology & Audio**  
-☁️ Cloud Infrastructure**  
-🔒 Health Data Security**
+🧠 AI & Machine Learning
+🏃‍♀️ Sports Science & Biomechanics 
+📱 Mobile App Development
+🎵 Voice Technology & Audio  
+☁️ Cloud Infrastructure 
+🔒 Health Data Security
 
 ---
 
@@ -53,13 +53,13 @@ Health: Samsung Health SDK • Health Connect API
 
 ---
 
- 🌍 **Based In**
-San Antonio, Texas** 🇺🇸  
-Building for runners worldwide*
+ 🌍 Based In
+San Antonio, Texas 🇺🇸  
+Building for runners worldwide
 
 ---
 
- 📬 **Connect With Us**
+ 📬 Connect With Us
 
 - Website: [deerfoot.ai](https://deerfoot.ai)
 - Business Inquiries: deerfootajayk@gmail.com
