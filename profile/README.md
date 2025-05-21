@@ -13,9 +13,9 @@ To revolutionize running through intelligent coaching that optimizes performance
 
 ---
 
- 🚀 What We're Building**
+ 🚀 What We're Building
 
-🎙 AI-Powered Coaching**
+🎙 AI-Powered Coaching
 - AI voice coach providing real-time guidance
 - Adaptive training plans** that evolve with your progress  
 - Couch to Marathon. 
