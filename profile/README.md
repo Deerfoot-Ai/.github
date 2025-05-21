@@ -9,16 +9,16 @@
 **Deerfoot Ai** is building the world's most sophisticated AI-powered running companion. We combine cutting-edge artificial intelligence with premium user experience to create personalized coaching that adapts to every runner's unique journey.
 
 ### **🌟 Our Mission**
-To revolutionize running through intelligent coaching that prevents injury, optimizes performance, and unlocks human potential - one stride at a time.
+To revolutionize running through intelligent coaching that optimizes performance and unlocks human potential.
 
 ---
 
 ## 🚀 **What We're Building**
 
 ### **🎙️ AI-Powered Coaching**
-- **British female AI voice coach** providing real-time guidance
+- **AI voice coach** providing real-time guidance
 - **Adaptive training plans** that evolve with your progress  
-- **Intelligent recovery** and injury prevention systems
+- **Couch to Marathon. 
 
 ### **📱 Premium Mobile Experience**
 - **Elegant design** with sophisticated black/silver/white aesthetics
@@ -69,8 +69,8 @@ To revolutionize running through intelligent coaching that prevents injury, opti
 
 ## 🎖️ **Our Values**
 
-**🏆 Excellence** - Premium quality in everything we build  
-**🔬 Innovation** - Pushing the boundaries of AI-powered fitness  
+**🏆 Excellence** - in everything we build  
+**🔬 Innovation** - Focusing on the experience that technology creates. 
 **🛡️ Privacy** - Your data, your control  
 **🌱 Growth** - Supporting every runner's journey to improvement  
 **🤝 Community** - Building technology that brings runners together  
