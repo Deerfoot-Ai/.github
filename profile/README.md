@@ -61,8 +61,8 @@ To revolutionize running through intelligent coaching that prevents injury, opti
 
 ## 📬 **Connect With Us**
 
-- **Website**: [deerfootapp.com](http://deerfootapp.com)
-- **Business Inquiries**: hello@deerfootapp.com
+- **Website**: [deerfoot.ai](https://deerfoot.ai)
+- **Business Inquiries**: hello@deerfoot.ai
 - **Careers**: We're growing! Reach out if you're passionate about AI and running
 
 ---
