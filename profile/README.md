@@ -55,15 +55,15 @@ Health: Samsung Health SDK • Health Connect API
 
  🌍 Based In
 San Antonio, Texas 🇺🇸  
-Building for runners worldwide
+For runners worldwide
 
 ---
 
  📬 Connect With Us
 
 - Website: [deerfoot.ai](https://deerfoot.ai)
-- Business Inquiries: deerfootajayk@gmail.com
-- Careers: We're growing! Reach out if you're passionate about AI and running
+- Business Inquiries: investor@deerfoot.ai
+- Careers: We're growing! Reach out if you're passionate about building technologies that serves human experience. careers@deerfoot.ai
 
 ---
 
