@@ -1,4 +1,4 @@
-#  Deerfoot Ai - Personalized coaching that adapts to every runner's unique journey.
+#  Deerfoot Ai - Personalized AI coaching that adapts to every runner's unique journey.
 
 **"MANE INVICTUS"** - *Unconquered Spirit*
 
