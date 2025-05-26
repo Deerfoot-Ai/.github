@@ -18,7 +18,7 @@ Deerfoot AI is building the world's most sophisticated AI-powered running compan
 
 ## 📧 Contact
 
-- **Email:** support@deerfoot.ai
+- **Email:** legal@deerfoot.ai
 - **Privacy Inquiries:** privacy@deerfoot.ai
 - **Location:** San Antonio, Texas, USA
 
