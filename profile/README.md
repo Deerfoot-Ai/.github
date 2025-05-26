@@ -15,7 +15,6 @@ Deerfoot AI is building the world's most sophisticated AI-powered running compan
 ## 📄 Legal
 
 - **[Privacy Policy](https://deerfoot-ai.github.io/deerfoot-android/privacy-policy.html)**
-- [Terms of Service](https://deerfoot-ai.github.io/deerfoot-android/terms.html)
 
 ## 📧 Contact
 
