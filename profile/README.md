@@ -12,6 +12,17 @@ Deerfoot AI is building the world's most sophisticated AI-powered running compan
 
 ⭐ **Our Mission:** We're building the future of training through collaborative agentic artificial intelligence, where the technology serves the experience.
 
+## 📄 Legal
+
+- **[Privacy Policy](https://deerfoot-ai.github.io/deerfoot-android/privacy-policy.html)**
+- [Terms of Service](https://deerfoot-ai.github.io/deerfoot-android/terms.html)
+
+## 📧 Contact
+
+- **Email:** support@deerfoot.ai
+- **Privacy Inquiries:** privacy@deerfoot.ai
+- **Location:** San Antonio, Texas, USA
+
 ---
 
 ## 💰 **Business Model**
