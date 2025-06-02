@@ -127,9 +127,6 @@ Expert in Kotlin development and mobile architecture
 **Eric Kratky** - *Database Administrator*  
 Specialist in data architecture and backend systems
 
-**Jason Pointdexter** - *UX/UI Designer*  
-Creating sophisticated user experiences and elegant interfaces
-
 ---
 
 ## 🛠️ **Technology Stack**
