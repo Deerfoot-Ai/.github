@@ -29,12 +29,7 @@ Deerfoot AI is building the world's most sophisticated AI-powered running compan
 
 **Transparent Premium Subscription Model**
 - **7-Day Free Trial:** Full access to experience the complete platform
-- **Base Tier ($9.99/month):** Limited features and integrations with limited AI context memory
-- **Premium Tier (19.99):** All Features-All Integrations-30 Day AI Context Memory
-- **Extended Context Memory Tier 1 (+$5/month):** 90-day AI coaching context retention
-- **Extended Memory Tier 2 (+$10/month):** 6-month coaching history with intelligent context optimization
-
-*"Why Memory Tiers? AI context retention requires significant computational resources. We optimize longer memory through intelligent summarization—keeping your coach's deep understanding of you while managing costs sustainably. Your coach explains exactly how enhanced memory improves your experience."*
+- **Premium Tier (19.99):** All Features-All Integrations
 
 **Additional Revenue Streams:**
 - **Marketplace Commission:** Coach-to-athlete connections and training program sales
