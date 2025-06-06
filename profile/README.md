@@ -7,9 +7,10 @@
 [![Samsung Health Partner](https://img.shields.io/badge/Samsung_Health-Official_Partner-blue.svg)](https://developer.samsung.com/health)
 
 AI-powered running coach delivering personalized, adaptive training through advanced biometric analysis and conversational AI.
-Deerfoot AI- Where the technology serves the experience. 
 
-**MANE INVICTUS** - *Unconquered Spirit*
+**Deerfoot AI**- Where the technology serves the experience. 
+
+**MANE INVICTUS** 
 
 ## Table of Contents
 
