@@ -6,7 +6,8 @@
 [![API](https://img.shields.io/badge/API-24+-blue.svg)](https://developer.android.com/about/versions/nougat)
 [![Samsung Health Partner](https://img.shields.io/badge/Samsung_Health-Official_Partner-blue.svg)](https://developer.samsung.com/health)
 
-Enterprise-grade AI-powered running coach delivering personalized, adaptive training through advanced biometric analysis and conversational AI.
+AI-powered running coach delivering personalized, adaptive training through advanced biometric analysis and conversational AI.
+Deerfoot AI- Where the technology serves the experience. 
 
 **MANE INVICTUS** - *Unconquered Spirit*
 
