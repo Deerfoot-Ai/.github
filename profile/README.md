@@ -1,7 +1,8 @@
 # Deerfoot AI
 
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://play.google.com/store)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](https://github.com/Deerfoot-AI/.github/blob/main/LICENSE)
+[![Status](https://img.shields.io/badge/Status-Pre--Launch-yellow.svg)](https://github.com/Deerfoot-AI)
+[![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://github.com/Deerfoot-AI)
 [![API](https://img.shields.io/badge/API-24+-blue.svg)](https://developer.android.com/about/versions/nougat)
 [![Samsung Health Partner](https://img.shields.io/badge/Samsung_Health-Official_Partner-blue.svg)](https://developer.samsung.com/health)
 
