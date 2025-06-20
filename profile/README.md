@@ -42,7 +42,7 @@ This organization page serves as our public presence while we prepare for launch
 - ✅ **Legal Documentation**: Privacy Policy and Terms of Service live
 - ✅ **App Store Requirements**: Legal docs ready for submission
 - 🚧 **Website**: Domain setup in progress (blocking Garmin)
-- 🚧 **Google Play Store**: Ready to submit once domain is active
+- 🚧 **Google Play Store**: Ready
 - 📅 **Target Launch**: Q2 2025
 
 ### Our Approach to Transparency
@@ -106,7 +106,7 @@ Deerfoot AI leverages a proprietary multi-agent AI architecture that orchestrate
 - ✅ **Samsung Galaxy Integration**: Official SDK partner with full Galaxy Watch support
 - ✅ **Real-time Biometric Analysis**: Heart rate, pace, distance, and cadence tracking
 - ✅ **Recovery Intelligence**: Science-based fatigue detection and load management
-- ✅ **Voice Coaching**: Premium British female AI coach with personality
+- ✅ **Voice Coaching**: AI coach with personality
 
 ### Coming Soon
 
