@@ -28,15 +28,15 @@
 ### **Why $7M (Not $2M or $20M)**
 ```
 Too Little ($2M):
-- Can't hire A-players from Apple/Nike
-- Can't run national marketing campaign
+- Can't hire A-players
+- Can't run a national marketing campaign
 - Back raising in 6 months (bad signal)
 
 Just Right ($7M):
 - Hire 15 world-class people
 - Dominate marketing channels
 - 18-month runway to $12M ARR
-- Series B from position of strength
+- Series B from a position of strength
 
 Too Much ($20M):
 - Don't need it (platform is built)
@@ -117,7 +117,7 @@ Exit Opportunities: Multiple
 **I Want:**
 - Investors who understand health tech
 - Partners who can open enterprise doors
-- People who get that emergency detection changes everything
+- People who get that emergency detection know that it changes everything
 - $500K minimum checks (serious players only)
 
 **Who Will Want In:**
@@ -176,7 +176,7 @@ Your Potential Return = $100M-500M (14-70x)
 A: Because I built it in stealth. This README is the first time most investors are seeing it.
 
 **Q: "If it's so good, why only $70M valuation?"**
-A: Because I'm being fair. I could ask for $150M and it would still be justified.
+A: Because I'm being fair. I could ask for $150, and it would still be justified.
 
 **Q: "What if Google or Apple copies you?"**
 A: They can't copy our Samsung partnership, our emergency patents, or move as fast as us.
@@ -353,7 +353,7 @@ While everyone sees a running app, we've actually built:
 **We're not competing with fitness apps. We're building the Alexa for active lifestyles.**
 
 ### **Why Start With Running?**
-- **Perfect use case** - Hands completely occupied, voice is only option
+- **Perfect use case** - Hands are completely occupied, voice is the only option
 - **Premium market** - Runners spend $1,000+/year on gear/races
 - **Daily engagement** - 4-5x per week usage patterns
 - **Clear metrics** - Pace, distance, heart rate (easy to show value)
