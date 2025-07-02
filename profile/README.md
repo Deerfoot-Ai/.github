@@ -289,15 +289,10 @@ Optimistic Exit: $2B+ (platform expansion)
 
 We've built the AI platform. We've secured the partnerships. We've solved the hard technical problems. Now we need seed funding to prove what we've built can create a sustainable, profitable business.
 
-**This isn't a bet on whether we can build it. This is a bet on whether people will pay for it.**
-
-And with emergency detection that can literally save lives, we believe they will.
-
 ---
 
-**Ready to be part of the AI that saves lives?**
 
-*Contact us at investors@deerfoot.ai*
+*Contact us at Ivestor Relatioons: ir@deerfoot.ai*
 
 ---
 
