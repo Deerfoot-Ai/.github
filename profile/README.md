@@ -14,7 +14,7 @@
 
 ## 🎯 **The Opportunity**
 
-We've built what typically requires $5-15M in funding: a complete AI platform with 106 cloud functions, 6 major integrations, and breakthrough emergency detection technology. Now we need seed funding to prove product-market fit and achieve initial traction.
+We've built what typically requires $5-15M in funding: a complete AI platform with 106 cloud functions, 6 major integrations, and emergency detection technology. Now we need seed funding to prove product-market fit and achieve initial traction.
 
 **Current Status**: Platform built, Google Play approved, seeking $1.5M seed to launch  
 **Market**: $15.6B running market, expanding to hands-free AI platform  
