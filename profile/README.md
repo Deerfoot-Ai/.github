@@ -179,7 +179,7 @@ A: Because I built it in stealth. This README is the first time most investors a
 A: Because I'm being fair. I could ask for $150, and it would still be justified.
 
 **Q: "What if Google or Apple copies you?"**
-A: They can't copy our Samsung partnership, our emergency patents, or move as fast as us.
+A: They are too busy trying to secure their place as giants to understand the power of what they have.
 
 **Q: "Why should I invest?"**
 A: Because you'll never see another solo founder who built a $5M platform and only wants $7M to dominate a $37B market.
@@ -244,22 +244,15 @@ You're buying into proven execution.
 ## 🚨 **THE GAME CHANGER: AI THAT CAN CALL 911**
 
 ### **What NO Other Fitness/Health App Has:**
-ANARA isn't just another fitness tracker. **IT CAN LITERALLY SAVE YOUR LIFE.**
+ANARA isn't just another fitness tracker. **IT CAN LITERALLY SAVE YOUR LIFE.**.. The Picot Potential is massive.
 
-**Our Emergency System (Patent-Pending):**
+**Our Emergency System (Further testing is required)-(Patent-Pending):**
 - **AI Pattern Recognition**: Detects heart attacks, strokes, falls
 - **Automatic 911 Calling**: No user action required
 - **GPS Location Dispatch**: Exact coordinates to paramedics
 - **Medical Data Package**: Instant health history for EMTs
 - **Family Alerts**: Simultaneous notification system
 - **Works Offline**: Emergency features don't need internet
-
-**Market Impact of Life-Saving Tech:**
-- **Insurance Partnerships**: 20% reduction in claims = massive contracts
-- **Enterprise Sales**: "We keep your employees alive" = instant yes
-- **Premium Pricing**: $50/month is nothing to save your life
-- **PR Goldmine**: Every saved life = national news story
-- **Competitive Moat**: Apple can't copy our patents
 
 **The Math:**
 - 50M solo runners in US
