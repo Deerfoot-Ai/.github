@@ -16,7 +16,6 @@
 
 We've built what typically requires $5-15M in funding: a complete AI platform with 106 cloud functions, 6 major integrations, and emergency detection technology. Now we need seed funding to prove product-market fit and achieve initial traction.
 
-**Current Status**: Platform built, Google Play approved, seeking $1.5M seed to launch  
 **Market**: $15.6B running market, expanding to hands-free AI platform  
 **Traction Target**: 1,000 paying users in 12 months  
 
@@ -91,28 +90,6 @@ ANARA is the only fitness app that can automatically call 911 and save lives.
 5. **Race Partnerships**: Training plans through RunSignup
 
 ---
-
-## 🎯 **Seed Funding: $1.5M**
-
-### **Use of Funds**
-```
-API & Infrastructure (40% - $600K)
-├── Claude API scaling: $200K/year
-├── Emergency services: $150K/year  
-├── Firebase scaling: $150K/year
-├── Voice synthesis: $100K/year
-
-Customer Acquisition (35% - $525K)
-├── Performance marketing: $300K
-├── PR & content creation: $125K
-├── Influencer partnerships: $100K
-
-Operations & Team (25% - $375K)
-├── Part-time CTO: $150K
-├── Marketing contractor: $100K
-├── Legal & compliance: $75K
-├── Working capital: $50K
-```
 
 ### **12-Month Milestones**
 - **Month 3**: 100 beta users, product feedback integration
