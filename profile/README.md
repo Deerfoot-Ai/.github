@@ -8,7 +8,7 @@
 🦌 **The first AI running coach with conversational intelligence and emergency detection**
 
 **ANARA** - Artificial Neural Athletic Running Assistant  
-**Deerfoot.ai** - *Where experience drives technology*
+**Deerfoot.ai** - *Where technology nurtures the expereince*
 
 ---
 
